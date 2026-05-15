@@ -72,6 +72,8 @@ example: power on - **0A000000000001014D02**
 
 ## Changelog
 
+[Older changelogs can be found there](CHANGELOG_OLD.md)
+
 ## Changelog
 <!--
     Placeholder for the next version (at the beginning of the line):
